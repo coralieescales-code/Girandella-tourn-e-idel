@@ -1,0 +1,11 @@
+{
+  "name": "Girandella — Ma tournée IDEL",
+  "short_name": "Girandella",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F7F6F2",
+  "theme_color": "#2F6B47",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
